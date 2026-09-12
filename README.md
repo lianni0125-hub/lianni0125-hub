@@ -19,6 +19,13 @@
 [Windows 便携版](https://github.com/lianni0125-hub/MO-mochao-short-drama/releases/latest) |
 [使用说明](https://github.com/lianni0125-hub/MO-mochao-short-drama#readme)
 
+### 美学种子 · AI 美学探究与艺术共创 Skill
+
+从人的细微感受出发，探索 AI 作为美学探究与艺术共创媒介的可能，让难以言明的感知自然生长为原创美学体系。
+
+[项目地址](https://github.com/lianni0125-hub/aesthetic-seed) |
+[创作示例](https://github.com/lianni0125-hub/aesthetic-seed/blob/main/examples/aesthetic-seed-creation-example.pdf)
+
 ## 🌌 我在做什么
 
 - AI 短剧与小说创作工作流
@@ -42,7 +49,7 @@ Exploring how screenwriting craft, narrative structure, and AI workflows can tru
 
 > Helping AI draw inspiration from real life—and stories grow naturally from the real world.
 
-## ✨ Featured Project
+## ✨ Featured Projects
 
 ### MO · AI Short Drama Writing System
 
@@ -51,6 +58,13 @@ A local-first **Chinese-language project** for creating Chinese short dramas, mo
 [Repository](https://github.com/lianni0125-hub/MO-mochao-short-drama) |
 [Windows Portable Edition](https://github.com/lianni0125-hub/MO-mochao-short-drama/releases/latest) |
 [Documentation](https://github.com/lianni0125-hub/MO-mochao-short-drama#readme)
+
+### Aesthetic Seed · AI-Mediated Aesthetic Inquiry
+
+An image-led art skill exploring AI as a medium for aesthetic inquiry and artistic co-creation—helping subtle human perception grow naturally into an original aesthetic system.
+
+[Repository](https://github.com/lianni0125-hub/aesthetic-seed) |
+[Creation Example](https://github.com/lianni0125-hub/aesthetic-seed/blob/main/examples/aesthetic-seed-creation-example.pdf)
 
 ## 🌌 What I’m Working On
 
