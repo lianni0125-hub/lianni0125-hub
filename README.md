@@ -26,6 +26,12 @@
 [项目地址](https://github.com/lianni0125-hub/aesthetic-seed) |
 [创作示例](https://github.com/lianni0125-hub/aesthetic-seed/blob/main/examples/aesthetic-seed-creation-example.pdf)
 
+### 琴境 · 古风音乐疗愈空间
+
+融合中国五音理论与自研古曲生成结构体系，从传统古琴曲中提炼全曲章法、局部动机与意象表达，并将其转化为可执行的生成规则；通过“写意”与“调心”两条路径，将人的心绪与想象生成多乐器古风音乐，以及可选的歌词与人声。
+
+[项目地址](https://github.com/lianni0125-hub/qinscape)
+
 ## 🌌 我在做什么
 
 - AI 短剧与小说创作工作流
@@ -65,6 +71,12 @@ An image-led art skill exploring AI as a medium for aesthetic inquiry and artist
 
 [Repository](https://github.com/lianni0125-hub/aesthetic-seed) |
 [Creation Example](https://github.com/lianni0125-hub/aesthetic-seed/blob/main/examples/aesthetic-seed-creation-example.pdf)
+
+### QinScape · Five-Tone-Inspired Music for Reflection and Wellbeing
+
+Combining traditional Chinese five-tone theory with a self-developed generative composition framework derived from historical guqin music, QinScape transforms whole-piece structures, local motifs, and poetic imagery into executable generation rules—creating Chinese-inspired ensemble music through two pathways, Imagery and Inner Regulation, with optional lyrics and vocals.
+
+[Repository](https://github.com/lianni0125-hub/qinscape)
 
 ## 🌌 What I’m Working On
 
