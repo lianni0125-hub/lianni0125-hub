@@ -74,7 +74,7 @@ An image-led art skill exploring AI as a medium for aesthetic inquiry and artist
 
 ### QinScape · Five-Tone-Inspired Music for Reflection and Wellbeing
 
-Built on Chinese five-tone theory and a self-developed generative framework derived from historical guqin music, QinScape turns imagery and inner states into Chinese-inspired ensemble music, with optional lyrics and vocals.
+QinScape is a music space inspired by Chinese five-tone theory. At its core is a self-developed generative framework distilled from historical guqin music. It turns imagery and inner states into Chinese-inspired ensemble pieces, with optional lyrics and vocals.
 
 [Repository](https://github.com/lianni0125-hub/qinscape)
 
